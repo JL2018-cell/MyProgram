@@ -3,6 +3,7 @@
 
 
 //This is a comment.
+//Resolved pulling request.
 
 int* k_close (int * nums, int x, int k, int len) {
  printf("Lens = %d\n", len);
